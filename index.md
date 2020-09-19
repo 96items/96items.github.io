@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to TradeMon
 
 You can use the [editor on GitHub](https://github.com/96items/96items.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
